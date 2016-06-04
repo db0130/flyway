@@ -1,0 +1,1 @@
+mvn org.apache:flyway-maven-plugin:1.1:migrate
